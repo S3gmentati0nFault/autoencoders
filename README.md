@@ -6,7 +6,10 @@ In this small project (bonus exercise sheet for the course of Machine Learning a
 I still want to put some effort in this project, even though the due date is already over, because I want to understand a couple of things that didn't really sit right with me, here is an approximative roadmap of the process:
 
 - [ ] Clean the code and make it easier to understand
-- [ ] Understand why the CNN has lower accuracy than the MLP substructure
+- [x] Understand why the CNN has lower accuracy than the MLP substructure
+    I found a way to make sure that the CNN has higher accuracy than the MLP substructure but it
+    takes 5 times to run and the ROC curve is kind of a weird result.
+- [ ] Make the Convolutional Neural Network more efficient.
 
 ## Quality of the solution
 Even though our solution was not totally complete it was deemed close to perfect, thus it's possible for anyone to see it as a tutorial that is very close to beginner level (bragging, but still down to earth).
